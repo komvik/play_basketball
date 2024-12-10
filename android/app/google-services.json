@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "592058860333",
+    "project_id": "play-basketball",
+    "storage_bucket": "play-basketball.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592058860333:android:a5e0502bd3f8dcbbffc9a4",
+        "android_client_info": {
+          "package_name": "com.pb.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADQh0mfuQYE91E13drh7u0ZOu3idduBe8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
